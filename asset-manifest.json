@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trash/build/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/trash/build/static/js/main.f7e7c199.chunk.js",
+    "main.js.map": "/trash/build/static/js/main.f7e7c199.chunk.js.map",
+    "runtime-main.js": "/trash/build/static/js/runtime-main.2dd98f39.js",
+    "runtime-main.js.map": "/trash/build/static/js/runtime-main.2dd98f39.js.map",
+    "static/js/2.fc73e283.chunk.js": "/trash/build/static/js/2.fc73e283.chunk.js",
+    "static/js/2.fc73e283.chunk.js.map": "/trash/build/static/js/2.fc73e283.chunk.js.map",
+    "index.html": "/trash/build/index.html",
+    "precache-manifest.c714e6bbcd243f0ec7a858418be51d1a.js": "/trash/build/precache-manifest.c714e6bbcd243f0ec7a858418be51d1a.js",
+    "service-worker.js": "/trash/build/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/trash/build/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fc73e283.chunk.js.LICENSE.txt": "/trash/build/static/js/2.fc73e283.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd98f39.js",
+    "static/js/2.fc73e283.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f7e7c199.chunk.js"
+  ]
+}
